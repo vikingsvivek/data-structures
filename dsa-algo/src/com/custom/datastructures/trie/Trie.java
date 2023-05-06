@@ -1,4 +1,4 @@
-package com.custom.datastructures;
+package com.custom.datastructures.trie;
 
 public class Trie {
 

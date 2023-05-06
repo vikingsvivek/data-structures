@@ -216,7 +216,7 @@ public class MinimumSpanningTree {
             if( U != V){
                 MST.add(edge);
                 makeUnion(parent,rank, U, V );
-                totalDistance+=dist;
+                totalDistance += dist;
             }
         }
 
